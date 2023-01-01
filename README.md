@@ -1,9 +1,9 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, soy Juanra 👋
-### Android engineer
+# Hola, soy Juanra 👋
+### Full-Stack Android engineer
 
 ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
 
-Soy desarrollador de software profesional con más de veinte años. 
+Soy desarrollador de software profesional con más de quince años de experiencia en informática logística.
 
 Actualmente estoy involucrado en proyectos de refactorización de sistemas monolíticos hacia arquitecturas de microservicios y desarrollando interfaces nativas de Android utilizando Kotlin.
 
@@ -26,7 +26,7 @@ Y alguna más...
 
 ## Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jrgavilanes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-ramón-gavilanes-sánchez-50b3ba167)
 
 ## Algunos vídeos en YouTube:
 
