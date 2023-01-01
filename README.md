@@ -3,9 +3,9 @@
 
 ![https://github.com/jrgavilanes](https://jrgavilanes.github.io/jrgavilanes/static/github-profile/frontpage.jpg)
 
-Soy desarrollador de software profesional con más de quince años de experiencia en informática logística.
+Desarrollador de software profesional con más de quince años de experiencia en informática logística.
 
-Actualmente estoy involucrado en proyectos de refactorización de sistemas monolíticos hacia arquitecturas de microservicios y desarrollando interfaces nativas de Android utilizando Kotlin.
+Ahora estamos trabajando en proyectos de refactorización de sistemas monolíticos hacia arquitecturas de microservicios y desarrollando interfaces nativas de Android utilizando Kotlin.
 
 ## Tecnologías:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
