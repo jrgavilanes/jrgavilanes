@@ -32,19 +32,20 @@ Y alguna más...
 
 <table style="width:100%">
 <tr>
-<td>
-<a href="https://youtu.be/BQaxPwZWboA">
-<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
-</a>
-</td>
-<a href="https://youtu.be/ebQphhLpJG0">
-<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/Kp4Mvapo5kc">
-<img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
-</a>
-</td>
-</tr>
+  <td>
+    <a href="https://youtu.be/BQaxPwZWboA">
+    <img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
+    </a>
+  </td>
+  <td>
+    <a href="https://youtu.be/ebQphhLpJG0">
+    <img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
+    </a>
+  </td>
+  <td>
+    <a href="https://youtu.be/Kp4Mvapo5kc">
+    <img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
+    </a>
+  </td>
+  </tr>
 </table>
