@@ -1,7 +1,7 @@
 # 👋 Hola, soy Juanra ! 
 ### Full-Stack Android engineer 🤖 
 
-<img src="https://es.wikipedia.org/wiki/Clint_Eastwood#/media/Archivo:Clint_Eastwood_at_2010_New_York_Film_Festival.jpg" />
+<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
 
 Desarrollador de software con más de quince años de experiencia en informática logística.
 
