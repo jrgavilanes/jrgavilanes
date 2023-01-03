@@ -1,7 +1,7 @@
 # 👋 Hola, soy Juanra ! 
 ### Full-Stack Android engineer 🤖 
 
-![https://github.com/jrgavilanes](https://jrgavilanes.github.io/jrgavilanes/static/github-profile/banner.jpg)
+<img src="https://jrgavilanes.github.io/jrgavilanes/static/github-profile/banner.jpg" />
 
 Desarrollador de software con más de quince años de experiencia en informática logística.
 
