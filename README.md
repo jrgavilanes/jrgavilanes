@@ -1,5 +1,5 @@
 # 👋 Hola, soy Juanra ! 
-### Full-Stack Android engineer 🤖 
+### Full-Stack Android Developer 🤖 
 
 <img src="https://storage.googleapis.com/mis-estaticos/banner-github.jpg">
 
