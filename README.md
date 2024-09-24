@@ -1,11 +1,11 @@
-# 👋 Hola, soy Juanra ! 
-### Full-Stack Android Developer 🤖 
+# 👋 Hola, soy Juan Ramón ! 
+### Ingeniero de software con más de quince años de experiencia. 🤖 
 
+<!--
 <img src="https://storage.googleapis.com/mis-estaticos/banner-github.jpg">
+-->
 
-Desarrollador de software con más de quince años de experiencia en informática logística.
-
-Ahora estamos dando caña en proyectos de refactorización de sistemas monolíticos hacia arquitecturas de microservicios y desarrollando interfaces nativas de Android utilizando Kotlin. ¡Flipas! 😁  
+Ahora estamos dando caña refactorizando monolitos hacia arquitecturas de microservicios y desarrollando interfaces nativas de Android utilizando Kotlin. 😁  
 
 ## Tecnologías:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
@@ -28,6 +28,7 @@ Y alguna más...
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jrgavilanes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-ramón-gavilanes-sánchez-50b3ba167)
 
+<!-- 
 ## Algunos videos de introducción de Moure:
 
 <table style="width:100%">
@@ -49,3 +50,5 @@ Y alguna más...
   </td>
   </tr>
 </table>
+
+-->
